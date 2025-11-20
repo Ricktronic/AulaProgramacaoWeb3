@@ -1,5 +1,5 @@
 // Sistema de rotas SPA
-import { templates } from "./templates.js";
+import "./templates.js";
 
 export function initRouter() {
   const links = document.querySelectorAll("nav a");
